@@ -559,11 +559,3 @@ if not is_admin:
     print('Access denied for non-administrators.') # Access denied for non-administrators.
 else:
     print('Welcome, Administrator!')
-Assignment
-
-Review the Python Basics topics and concepts.
-
-Please complete the assignment
-Submit
-Ask for Help
-Navigated to Python Basics Review
